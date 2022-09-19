@@ -1,5 +1,5 @@
-# Python Clean Data
-### cleaning data with python
+# Python (pandas) Data Cleaning
+### cleaning data with pandas pipe function
 ##
 ##
 ## Pandas pipe function to chain reusable data cleaning functions
